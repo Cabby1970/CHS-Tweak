@@ -5,4 +5,6 @@ With the potential amount of zombies that this mod can generate you might be kil
 
 I understand Valmar's idea to limit crafting greatly by taking away things like the forge and wood frames, but with a mod that bases your survival on looting instead of crafting I don't understand why he removed the ability to create the storage chests.  To me the ability to make a storage chest is vital in this kind of game mode since we have to limit ourselves to prefabs for any kind of base.  I also feel it is reasonable to believe that if we can use nails and wood to repair and upgrade existing blocks we should be able to use some nails and wood to make a box to put things into.  With that in mind I have added the recipes back in for crafting the storage chests/boxes but to go along with the theme of limiting crafting I have set it so you can only craft them in the workbench.
 
+If you only want to use one part of this there are files included that you can rename to revert the changes (No Bags or No Storage).
+
 All credit for these files goes to Valmar even if I have modfied them a little.
