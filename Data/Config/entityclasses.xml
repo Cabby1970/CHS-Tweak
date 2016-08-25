@@ -160,7 +160,7 @@
 	<property name="SoundDeath" value="Enemies/Base_Zombie_Male/zombiemaledeath" />
 	<property name="SoundAttack" value="Enemies/Base_Zombie_Male/zombiemaleattack" />
 	<property name="SoundAttackTime" value="70.0" />
-	<property name="TimeStayAfterDeath" value="300" />
+	<property name="TimeStayAfterDeath" value="3" />
 	<property name="AttackTimeoutDay" value="1.5" />
 	<!-- in s -->
 	<property name="AttackTimeoutNight" value="1.1" />
